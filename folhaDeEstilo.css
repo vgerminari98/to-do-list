@@ -1,0 +1,72 @@
+ .titulo {
+     text-align: center;
+ }
+ 
+ .btn {
+     align-items: center;
+     border-top: 5px solid rgba(0, 0, 0, 0.3);
+     background-color: rgba(0, 0, 0, 0.5);
+     padding: 10px 25px;
+     color: #fff;
+     display: inline-block;
+     border: 0;
+     font-size: 16px;
+     margin-right: 50%;
+     margin-left: 45%;
+ }
+ 
+ .container {
+     display: block;
+     border-top: #0000;
+     width: 400px;
+     margin: 100px auto 0;
+ }
+ 
+ ul {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ li {
+     clear: both;
+     list-style: none;
+ }
+ 
+ li {
+     overflow: hidden;
+     padding: 20px 0;
+     border-bottom: 1px solid #eee;
+ }
+ 
+ li>input[type="checkbox"] {
+     margin: 0 10px;
+     position: relative;
+     top: 15px;
+ }
+ 
+ .check {
+     margin-right: 10px;
+     max-width: 10%;
+     float: left;
+ }
+ 
+ .la {
+     max-width: 90%;
+     float: left;
+ }
+ 
+ .formulario {
+     float: center;
+     max-width: 90%;
+ }
+ 
+ .text {
+     float: center;
+     border-color: #0000;
+     max-width: 90%;
+     display: block;
+     margin-left: 40%;
+     margin-right: auto;
+     width: 50%;
+     height: 45%;
+ }
